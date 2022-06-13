@@ -1,0 +1,3 @@
+Nombre del producto: Playstation
+Cantidad 1
+Precio: $2000

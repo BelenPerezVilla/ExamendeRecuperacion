@@ -1,0 +1,7 @@
+C:\Users\Laboratorio\source\repos\examenderecuperacion\examenderecuperacion\bin\Debug\examenderecuperacion.exe.config
+C:\Users\Laboratorio\source\repos\examenderecuperacion\examenderecuperacion\bin\Debug\examenderecuperacion.exe
+C:\Users\Laboratorio\source\repos\examenderecuperacion\examenderecuperacion\bin\Debug\examenderecuperacion.pdb
+C:\Users\Laboratorio\source\repos\examenderecuperacion\examenderecuperacion\obj\Debug\examenderecuperacion.csproj.AssemblyReference.cache
+C:\Users\Laboratorio\source\repos\examenderecuperacion\examenderecuperacion\obj\Debug\examenderecuperacion.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\source\repos\examenderecuperacion\examenderecuperacion\obj\Debug\examenderecuperacion.exe
+C:\Users\Laboratorio\source\repos\examenderecuperacion\examenderecuperacion\obj\Debug\examenderecuperacion.pdb
